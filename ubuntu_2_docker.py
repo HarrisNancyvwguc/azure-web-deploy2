@@ -5,7 +5,6 @@ __author__ = 'root'
 import os
 import sys
 import time
-import shutil
 import subprocess
 import multiprocessing
 
